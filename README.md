@@ -68,19 +68,6 @@ The dataset contains information about:
 
 ---
 
-## 📁 Repository Structure
-
-```
-📦 superstore-sales-dashboard-powerbi
-│
-├── SuperStore Dashboard.pbix
-├── Dashboard Screenshot.png
-├── README.md
-└── Dataset.csv (optional)
-```
-
----
-
 ## 🎯 Skills Demonstrated
 
 - Data Cleaning
